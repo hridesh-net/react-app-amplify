@@ -1,0 +1,14 @@
+{
+  "resourceName": "imgstorage",
+  "policyUUID": "33fd58e2",
+  "bucketName": "notes-react-app-bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
